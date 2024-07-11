@@ -3,7 +3,7 @@
 
 <div align="center">
   <Strong>🌱SNS🌱</Strong><br><br>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/2___3weeks/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <br><br><br>
   <Strong>💬Email💬</Strong><br>
   qazsa15@gmail.com
