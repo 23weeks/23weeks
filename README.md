@@ -10,11 +10,6 @@
 </div><br><br>
 
 <div align="center">
-  안녕하세요👋<br>
-  1년차 개발자로 일하고 있는 제 이름은 <Strong>이상주</Strong> 라고 합니다.
-</div><br><br>
-
-<div align="center">
   <Strong>✨Language✨</Strong><br><br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
