@@ -11,7 +11,7 @@
 <br><br>
 <p align="center">
   안녕하세요👋<br>
-  이상주입니다.
+  1년차 개발자로 일하고 있는 제 이름은 <Strong>이상주</Strong>라고 합니다.
 </p>
 <!--
 **23weeks/23weeks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
